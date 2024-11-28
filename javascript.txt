@@ -1,1 +1,3 @@
 A turma 06 de Javascript é top !
+
+A turma 06 de Javascript é mara !
