@@ -1,0 +1,23 @@
+[33mcommit a32c654f86f6cc4d73744fa66cd36faa324167a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: anapaula-sds <86493078+anapaula-sds@users.noreply.github.com>
+Date:   Thu Nov 28 16:20:59 2024 -0300
+
+    Adicionei uma nova frase em javascript.txt
+
+[33mcommit adee9c982814d6468f79d5a9d159b83fb3faac2c[m
+Author: Ana Paula <anapaula-sds@hotmail.com>
+Date:   Thu Nov 28 16:14:32 2024 -0300
+
+    Inclusão do arquivo teste.txt
+
+[33mcommit c2ff58a017e0dceb9dea12af2537a220b4e6284f[m
+Author: Ana Paula <anapaula-sds@hotmail.com>
+Date:   Thu Nov 28 15:57:13 2024 -0300
+
+    REiniciei as mensagens do commit
+
+[33mcommit 91cfb8938b6e27dad4c759d71e716fd4070e348e[m
+Author: Ana Paula <anapaula-sds@hotmail.com>
+Date:   Thu Nov 28 15:23:27 2024 -0300
+
+    criei o arquivo javascript.txt
